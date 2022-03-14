@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 body {
- background-image: url("../figuras/fondo.jpg");	
  background-color: #000;
 }
 
